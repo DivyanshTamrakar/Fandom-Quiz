@@ -38,6 +38,7 @@ console.log("----------------------------\n");
 console.log(chalk.red.bold("Rules* \n"))
 console.log(chalk.red.bold("1. There is only one correct answer.\n"))
 console.log(chalk.red.bold("2. There is Negative marking.\n"))
+console.log(chalk.yellow.bold("***********************\n"));
 
 
 
